@@ -26,6 +26,14 @@ the keyword commands are simple.  He is able to move around the map and catch Po
 join in on the fun with friends and experience all that the game of Pokemon has to offer.
 
 
+
+Lewis Winnemore
+
+Persona - Nostalgic College Student – Jake is a student in college and when he was a kid he loved everything Pokémon. Jake loved watching the show but loved playing the original Pokémon on Nintendo DS the most. Since getting to college a lot of his peers are dipping into their past and playing Pokémon through an emulator on their phones. Jake decides to join the fun and try Pokémon again. However, Jake does not want to go through the headache of downloading an emulator or buying a new DS, so he searches for a simpler way to play.
+Jake also happens to be a big fan of Discord because he uses it to chat with friends when gaming on his PC. He hears there is a bot on Discord, where he can relive his glory days in Pallet Town and play Pokémon wherever he is. Jake is not forced to buy a new DS or go through the annoying process of downloading an emulator to play Pokémon, because he has the game at his fingertips at all times on a Discord server
+
+
+
 Vision Statement 
 
 -What is the product to be developed?
