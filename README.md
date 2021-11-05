@@ -21,11 +21,17 @@ join in on the fun with friends and experience all that the game of Pokemon has 
 
 
 Vision Statement 
+
 -What is the product to be developed?
+
 The product to be developed is a discord oriented Pokemon game.  It will utilize a discord bot to provide a visual map as well as an interactive
 user interface to move around, catch pokemon, and battle others.
+
 -Who are the target customers and users?
+
 The target consumer is children ages 5-14 while there should also be some appeal to older individuals who seek a nostalgic Pokemon experience.  
+
 -Why should customers buy this product?
+
 Consumers should use this product because it offers a fully sufficient experience all in discord.  The set up is minimal and is accessible to 
 anyone with an internet connection and free discord account.
