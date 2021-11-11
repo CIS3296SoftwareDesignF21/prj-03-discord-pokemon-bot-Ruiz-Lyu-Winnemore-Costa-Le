@@ -32,6 +32,9 @@ Lewis Winnemore
 Persona - Nostalgic College Student – Jake is a student in college and when he was a kid he loved everything Pokémon. Jake loved watching the show but loved playing the original Pokémon on Nintendo DS the most. Since getting to college a lot of his peers are dipping into their past and playing Pokémon through an emulator on their phones. Jake decides to join the fun and try Pokémon again. However, Jake does not want to go through the headache of downloading an emulator or buying a new DS, so he searches for a simpler way to play.
 Jake also happens to be a big fan of Discord because he uses it to chat with friends when gaming on his PC. He hears there is a bot on Discord, where he can relive his glory days in Pallet Town and play Pokémon wherever he is. Jake is not forced to buy a new DS or go through the annoying process of downloading an emulator to play Pokémon, because he has the game at his fingertips at all times on a Discord server
 
+Persona - 25-32 years old
+Steven, 29 years old, a hard working man live in Philly. He was born into a immigrant family. Steven's parents work hard to put food on the table. During his childhood, he and his brother never miss an episode of pokemon and have a collections of pokemon figures.He used his first computer to play pokemon games on the simulator app until he had a chance to get his first switch. 
+Once he has experienced most of the pokemon games on the switch, steven continues to find a few other games on other platform  like discord, where he can find friends who share the same passion for pokemon. Although the quality of the game on discord is not as good as nintendo's products, it provides a special experience, bringing steven back to his childhood where products like the DS was a dream.
 
 
 Vision Statement 
