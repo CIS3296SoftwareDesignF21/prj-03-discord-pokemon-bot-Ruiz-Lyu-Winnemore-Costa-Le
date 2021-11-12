@@ -5,11 +5,11 @@ This project will eventually be run 24/7 you can add the bot using this link and
 
 # How to Install
 
-Persona- High school student
+Persona- High school student (Alex Ruiz)
 Joey, a highschool student:
 Joey, age 16, is an average high school sophomore who enjoys playing video games in his free time and keeping up with his friends. Like many others of his age he uses discord servers to stay in touch with friends. Whether they’re friends that go to his school or they’re friends he has made from all around the world on public servers, Joey has places for both of them.
 Although he is familiar with and uses discord quite often he is not a particularly technically savvy person and has no use for apps that require a lot of fine tuning and hard to understand command inputs and those that are harder to install than say going to a link, hitting install and having everything set up for you.
-Joey like many people grew up under the influence of the biggest media franchise Pokémon and developed a nostalgic attachment to the brand and all things that incorporate it. Even though he could just continue playing the games the same way he’s always played them he’s open to trying the game in a new shape or form that would perhaps reignite his passion for the games but in a more casual less focused sense.
+Joey like many people grew up under the influence of the biggest media franchise Pokémon and developed a nostalgic attachment to the brand and all things that incorporate it. Even though he could just continue playing the games the same way he’s always played them he’s open to trying the game in a new shape or form that would perhaps reignite his passion for the games but in a more casual sense. The feature Joey is most interested in is the battling mechanic which only requires input through message reactions.
 
 
 Persona- Young child (age 5 to 8) 
