@@ -88,7 +88,7 @@ bot.on('interactionCreate', async (interaction) => {
         })
     }
 });
-
+    
 //MESSAGE HANDLING
 bot.on('messageCreate', (message) =>{
     if(message.author.bot) return;
