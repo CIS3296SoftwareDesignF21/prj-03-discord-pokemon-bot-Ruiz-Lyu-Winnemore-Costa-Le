@@ -12,7 +12,7 @@ Although he is familiar with and uses discord quite often he is not a particular
 Joey like many people grew up under the influence of the biggest media franchise Pokémon and developed a nostalgic attachment to the brand and all things that incorporate it. Even though he could just continue playing the games the same way he’s always played them he’s open to trying the game in a new shape or form that would perhaps reignite his passion for the games but in a more casual less focused sense.
 
 
-Persona- Young child (age 5 to 8) 
+(Chris Costa) Persona- Young child (age 5 to 8) 
 
 Aston, age 6, is a first grade student at an elementary school in Baltimore, Maryland.  He was born into a family that has surrounded him with
 technology from a young age.  He is able to easily use a phone for the following tasks; phone calls, facetime, scrolling through photos, and 
@@ -53,3 +53,9 @@ The target consumer is children ages 5-14 while there should also be some appeal
 
 Consumers should use this product because it offers a fully sufficient experience all in discord.  The set up is minimal and is accessible to 
 anyone with an internet connection and free discord account.
+
+
+
+UML Class Diagram 
+
+![UML](https://user-images.githubusercontent.com/70285457/141418675-367b5dc8-f74a-44e4-9a52-2dd43d13f105.PNG)
