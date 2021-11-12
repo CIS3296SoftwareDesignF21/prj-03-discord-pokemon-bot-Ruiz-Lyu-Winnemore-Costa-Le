@@ -33,10 +33,10 @@ Jake also happens to be a big fan of Discord because he uses it to chat with fri
 
 
 
-Persona - 25-32 years old
+Persona - 25-32 years old (Vinh Le)
 Steven, 29 years old, a hard working man live in Philly. He was born into a immigrant family. Steven's parents work hard to put food on the table. During his childhood, he and his brother never miss an episode of pokemon and have a collections of pokemon figures.He used his first computer to play pokemon games on the simulator app until he had a chance to get his first switch. 
 Once he has experienced most of the pokemon games on the switch, steven continues to find a few other games on other platform  like discord, where he can find friends who share the same passion for pokemon. Although the quality of the game on discord is not as good as nintendo's products, it provides a special experience, bringing steven back to his childhood where products like the DS was a dream.
-
+While playing this game, you have change to move from town to town, meet new friend and play dual with them. You will have a better chance of catching a new pokemon if both are in dual mode, but the difficulty will increase as more members joining the team.
 
 Vision Statement 
 
