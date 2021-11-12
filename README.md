@@ -37,6 +37,9 @@ Persona - 25-32 years old
 Steven, 29 years old, a hard working man live in Philly. He was born into a immigrant family. Steven's parents work hard to put food on the table. During his childhood, he and his brother never miss an episode of pokemon and have a collections of pokemon figures.He used his first computer to play pokemon games on the simulator app until he had a chance to get his first switch. 
 Once he has experienced most of the pokemon games on the switch, steven continues to find a few other games on other platform  like discord, where he can find friends who share the same passion for pokemon. Although the quality of the game on discord is not as good as nintendo's products, it provides a special experience, bringing steven back to his childhood where products like the DS was a dream.
 
+Persona (Xu Lyu)
+Elijah is an eleven year old middle school student born in New York City. Elijah has loved watching episode of Pokémon since he was a child, he is a big fan of pokemon. Elijah really wants to play Pokemon games, but his phone does not meet the conditions for running the Pokémon game, and he does not have a game console similar to switch， the only device he can use is his father’s laptop.
+Elijah often uses his father’s discord to chat with his friends. One day he saw a Pokémon bot in the discord and the gameplay of pokemon bot is very similar to Nintendo’s, Elijah was very happy and shared this discord bot with friends who have similar situations with him. The operation of Pokémon in discord is very simple, many new players can quickly get started, more and more people have joined the game.
 
 Vision Statement 
 
