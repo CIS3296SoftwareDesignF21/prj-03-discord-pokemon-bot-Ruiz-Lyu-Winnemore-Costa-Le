@@ -21,6 +21,26 @@
         "locationImage":"https://cdn2.bulbagarden.net/upload/9/9f/Viridian_City_FRLG.png"
     },
     {
+        "locationId": 3,
+        "townName": "Pewter City",
+        "canTravel": 0,
+        "hasMart": 1,
+        "hasCenter": 1,
+        "hasGym": 1,
+        "canFish": 0,
+        "locationImage":"https://cdn2.bulbagarden.net/upload/c/cf/Pewter_City_FRLG.png"
+    },
+    {
+        "locationId": 4,
+        "townName": "Cerulean City",
+        "canTravel": 0,
+        "hasMart": 1,
+        "hasCenter": 1,
+        "hasGym": 1,
+        "canFish": 1,
+        "locationImage":"https://cdn2.bulbagarden.net/upload/0/0b/Cerulean_City_FRLG.png"
+    },
+    {
         "locationId": 11,
         "townName": "Indigo Plateau",
         "canTravel": 0,
