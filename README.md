@@ -64,3 +64,10 @@ anyone with an internet connection and free discord account.
 UML Class Diagram 
 
 ![UML](https://user-images.githubusercontent.com/70285457/141418675-367b5dc8-f74a-44e4-9a52-2dd43d13f105.PNG)
+
+UML explination
+Launch is a class used on first instance of game.  Pick from indexed list of base characters.  Enter a customizabel player name as a string.  The Main Character class extends
+the launch class and will pass the name variable and allow for further unique characteristics for the chosen main character.  These characteristics include id, gender
+badge count, money, and changes to name.  The pokedex holds boolean varables for pokemon as discovered/undiscovered and caught/not caught.  It will also include a method to 
+search() to fetch data of a pokemon based on entered pokemon id.  Moves of pokemon are also associated with the pokemon class.  In the senerio of a wild encounter the option
+to catch is an available move type
