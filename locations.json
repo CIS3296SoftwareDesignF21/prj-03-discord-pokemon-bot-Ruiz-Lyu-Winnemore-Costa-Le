@@ -70,6 +70,26 @@
     "canFish": 1,
     "locationImage":"https://cdn2.bulbagarden.net/upload/6/65/Cinnabar_Island_FRLG.png"
  }
+        {
+        "locationId": 7,
+        "townName": "Celadon City",
+        "canTravel": 0,
+        "hasMart": 1,
+        "hasCenter": 1,
+        "hasGym": 1,
+        "canFish": 1,
+        "locationImage":"https://cdn2.bulbagarden.net/upload/9/9f/Celadon_City_FRLG.png"
+    },
+    {
+        "locationId": 16,
+        "townName": "Fuchsia City",
+        "canTravel": 0,
+        "hasMart": 1,
+        "hasCenter": 1,
+        "hasGym": 0,
+        "canFish": 0,
+        "locationImage":"https://cdn2.bulbagarden.net/upload/2/26/Fuchsia_City_FRLG.png"
+    }
   ]
 
 }
