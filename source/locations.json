@@ -39,6 +39,26 @@
         "hasGym": 1,
         "canFish": 1,
         "locationImage":"https://cdn2.bulbagarden.net/upload/0/0b/Cerulean_City_FRLG.png"
+    }, 
+    {
+      "locationId": 5,
+      "townName": "Vermilion City",
+      "canTravel": 0,
+      "hasMart": 1,
+      "hasCenter": 1,
+      "hasGym": 1,
+      "canFish": 1,
+      "locationImage":"https://archives.bulbagarden.net/media/upload/4/43/Vermilion_City_HGSS.png"
+ },
+    {
+       "locationId": 6,
+      "townName": "Lavender Town",
+      "canTravel": 1,
+      "hasMart": 1,
+      "hasCenter": 1,
+      "hasGym": 0,
+      "canFish": 0,
+      "locationImage":"https://archives.bulbagarden.net/media/upload/4/43/Vermilion_City_HGSS.png"
     },
     {
         "locationId": 7,
