@@ -1,7 +1,7 @@
 # Project
 
 # How to Run
-This project will eventually be run 24/7 you can add the bot using this link and selecting a server to add it to https://discord.com/api/oauth2/authorize?client_id=905695762678161438&scope=bot
+This project will eventually be run 24/7 you can add the bot using this link and selecting a server to add it to https://discord.com/api/oauth2/authorize?client_id=914932758793576480&permissions=8&scope=bot%20applications.commands
 
 # How to Install
 
