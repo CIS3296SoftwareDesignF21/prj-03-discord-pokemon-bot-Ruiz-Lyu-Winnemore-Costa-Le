@@ -25,4 +25,4 @@ In order to run this application
     e) npm run dev
 
 Once the steps are completed, the bot will be live on the following server:
-https://discord.com/api/oauth2/authorize?client_id=905695762678161438&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=914932758793576480&permissions=8&scope=bot%20applications.commands
