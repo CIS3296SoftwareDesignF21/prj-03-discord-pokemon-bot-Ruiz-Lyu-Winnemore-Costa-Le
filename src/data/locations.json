@@ -1,0 +1,115 @@
+{
+  "towns":[
+    {
+        "townId": 1,
+        "townName": "Pallet Town",
+        "canTravel": true,
+        "hasMart": false,
+        "hasCenter": false,
+        "hasGym": false,
+        "canFish": true,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/7/77/Pallet_Town_FRLG.png"
+    },
+    {
+        "locationId": 2,
+        "townName": "Viridian City",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": true,
+        "canFish": true,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/9/9f/Viridian_City_FRLG.png"
+    },
+    {
+        "locationId": 3,
+        "townName": "Pewter City",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": true,
+        "canFish": false,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/c/cf/Pewter_City_FRLG.png"
+    },
+    {
+        "locationId": 4,
+        "townName": "Cerulean City",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": true,
+        "canFish": true,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/0/0b/Cerulean_City_FRLG.png"
+    },
+    {
+        "locationId": 5,
+        "townName": "Vermilion City",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": true,
+        "canFish": true,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/8/8d/Vermilion_City_FRLG.png"
+    },
+    {
+        "locationId": 6,
+        "townName": "Lavender Town",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": false,
+        "canFish": false,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/4/48/Lavender_Town_FRLG.png"
+    },
+    {
+        "locationId": 7,
+        "townName": "Celadon City",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": true,
+        "canFish": true,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/e/ee/Celadon_City_FRLG.png"
+    },
+    {
+        "locationId": 8,
+        "townName": "Saffron City",
+        "canTravel": true,
+        "hasMart": false,
+        "hasCenter": false,
+        "hasGym": true,
+        "canFish": false,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/5/53/Saffron_City_FRLG.png"
+    },
+    {
+        "locationId": 9,
+        "townName": "Fuchsia City",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": false,
+        "canFish": false,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/d/d0/Fuchsia_City_FRLG.png"
+    },
+    {
+        "locationId": 10,
+        "townName": "Cinnabar Island",
+        "canTravel": true,
+        "hasMart": false,
+        "hasCenter": false,
+        "hasGym": true,
+        "canFish": true,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/6/65/Cinnabar_Island_FRLG.png"
+    },
+    {
+        "locationId": 11,
+        "townName": "Indigo Plateau",
+        "canTravel": true,
+        "hasMart": true,
+        "hasCenter": true,
+        "hasGym": false,
+        "canFish": false,
+        "locationImage":"https://archives.bulbagarden.net/media/upload/2/26/Indigo_Plateau_FRLG.png"
+    }
+  ]
+
+}

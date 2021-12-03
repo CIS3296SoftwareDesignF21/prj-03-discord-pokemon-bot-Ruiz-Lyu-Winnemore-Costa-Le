@@ -1,0 +1,1062 @@
+{
+    "pokes":[
+        {
+            "pokeId": 1,
+            "pokeName": "Bulbasaur",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/2/21/001Bulbasaur.png"
+        },
+        {
+          "pokeId": 2,
+          "pokeName": "Ivysaur",
+          "catchRate": 45,
+          "hasCaught": false,
+          "pokeImage":"https://archives.bulbagarden.net/media/upload/7/73/002Ivysaur.png"
+        },
+        {
+            "pokeId": 3,
+            "pokeName": "Venusaur",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/ae/003Venusaur.png"
+        },
+        {
+            "pokeId": 4,
+            "pokeName": "Charmander",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/73/004Charmander.png"
+        },
+        {
+            "pokeId": 5,
+            "pokeName": "Charmeleon",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/4a/005Charmeleon.png"
+        },
+        {
+            "pokeId": 6,
+            "pokeName": "Charizard",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/7e/006Charizard.png"
+        },
+        {
+            "pokeId": 7,
+            "pokeName": "Squirtle",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/39/007Squirtle.png"
+        },
+        {
+            "pokeId": 8,
+            "pokeName": "Wartortle",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/0c/008Wartortle.png"
+        },
+        {
+            "pokeId": 9,
+            "pokeName": "Blastoise",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/02/009Blastoise.png"
+        },
+        {
+            "pokeId": 10,
+            "pokeName": "Caterpie",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage": "https://archives.bulbagarden.net/media/upload/5/5d/010Caterpie.png"
+        },
+        {
+            "pokeId": 11,
+            "pokeName": "Metapod",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/cd/011Metapod.png"
+        },
+        {
+            "pokeId": 12,
+            "pokeName": "Butterfree",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/d1/012Butterfree.png"
+        },
+        {
+            "pokeId": 13,
+            "pokeName": "Weedle",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/df/013Weedle.png"
+        },
+        {
+            "pokeId": 14,
+            "pokeName": "Kakuna",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/f0/014Kakuna.png"
+        },
+        {
+            "pokeId": 15,
+            "pokeName": "Beedrill",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/61/015Beedrill.png"
+        },
+        {
+            "pokeId": 16,
+            "pokeName": "Pidgey",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/5/55/016Pidgey.png"
+        },
+        {
+            "pokeId": 17,
+            "pokeName": "Pidgeotto",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/7a/017Pidgeotto.png"
+        },
+        {
+            "pokeId": 18,
+            "pokeName": "Pidgeot",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/5/57/018Pidgeot.png"
+        },
+        {
+            "pokeId": 19,
+            "pokeName": "Rattata",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/46/019Rattata.png"
+        },
+        {
+            "pokeId": 20,
+            "pokeName": "Raticate",
+            "catchRate": 127,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/f4/020Raticate.png"
+        },
+        {
+            "pokeId": 21,
+            "pokeName": "Spearow",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/8b/021Spearow.png"
+        },
+        {
+            "pokeId": 22,
+            "pokeName": "Fearow",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/a0/022Fearow.png"
+        },
+        {
+            "pokeId": 23,
+            "pokeName": "Ekans",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/fa/023Ekans.png"
+        },
+        {
+            "pokeId": 24,
+            "pokeName": "Arbok",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/cd/024Arbok.png"
+        },
+        {
+            "pokeId": 25,
+            "pokeName": "Pikachu",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/0d/025Pikachu.png"
+        },
+        {
+            "pokeId": 26,
+            "pokeName": "Raichu",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/88/026Raichu.png"
+        },
+        {
+            "pokeId": 27,
+            "pokeName": "Sandshrew",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/9e/027Sandshrew.png"
+        },
+        {
+            "pokeId": 28,
+            "pokeName": "Sandslash",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/0b/028Sandslash.png"
+        },
+        {
+            "pokeId": 29,
+            "pokeName": "Nidoran♀",
+            "catchRate": 235,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/81/029Nidoran.png"
+        },
+        {
+            "pokeId": 30,
+            "pokeName": "Nidorina",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/cd/030Nidorina.png"
+        },
+        {
+            "pokeId": 31,
+            "pokeName": "Nidoqueen",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/b/bf/031Nidoqueen.png"
+        },
+        {
+            "pokeId": 32,
+            "pokeName": "Nidoran♂",
+            "catchRate": 235,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/4a/032Nidoran.png"
+        },
+        {
+            "pokeId": 33,
+            "pokeName": "Nidorino",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/9f/033Nidorino.png"
+        },
+        {
+            "pokeId": 34,
+            "pokeName": "Nidoking",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/c6/034Nidoking.png"
+        },
+        {
+            "pokeId": 35,
+            "pokeName": "Clefairy",
+            "catchRate": 150,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/f4/035Clefairy.png"
+        },
+        {
+            "pokeId": 36,
+            "pokeName": "Clefable",
+            "catchRate": 25,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/a9/036Clefable.png"
+        },
+        {
+            "pokeId": 37,
+            "pokeName": "Vulpix",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/60/037Vulpix.png"
+        },
+        {
+            "pokeId": 38,
+            "pokeName": "Ninetales",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/05/038Ninetales.png"
+        },
+        {
+            "pokeId": 39,
+            "pokeName": "Jigglypuff",
+            "catchRate": 170,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/3e/039Jigglypuff.png"
+        },
+        {
+            "pokeId": 40,
+            "pokeName": "Wigglytuff",
+            "catchRate": 50,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/92/040Wigglytuff.png"
+        },
+        {
+            "pokeId": 41,
+            "pokeName": "Zubat",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/da/041Zubat.png"
+        },
+        {
+            "pokeId": 42,
+            "pokeName": "Golbat",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/0c/042Golbat.png"
+        },
+        {
+            "pokeId": 43,
+            "pokeName": "Oddish",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/43/043Oddish.png"
+        },
+        {
+            "pokeId": 44,
+            "pokeName": "Gloom",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/2/2a/044Gloom.png"
+        },
+        {
+            "pokeId": 45,
+            "pokeName": "Vileplume",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/6a/045Vileplume.png"
+        },
+        {
+            "pokeId": 46,
+            "pokeName": "Paras",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/d4/046Paras.png"
+        },
+        {
+            "pokeId": 47,
+            "pokeName": "Parasect",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/80/047Parasect.png"
+        },
+        {
+            "pokeId": 48,
+            "pokeName": "Venonat",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/ad/048Venonat.png"
+        },
+        {
+            "pokeId": 49,
+            "pokeName": "Venomoth",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/d3/049Venomoth.png"
+        },
+        {
+            "pokeId": 50,
+            "pokeName": "Diglett",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/31/050Diglett.png"
+        },
+        {
+            "pokeId": 51,
+            "pokeName": "Dugtrio",
+            "catchRate": 50,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/e/e5/051Dugtrio.png"
+        },
+        {
+            "pokeId": 52,
+            "pokeName": "Meowth",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/d6/052Meowth.png"
+        },
+        {
+            "pokeId": 53,
+            "pokeName": "Persian",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/1/13/053Persian.png"
+        },
+        {
+            "pokeId": 54,
+            "pokeName": "Psyduck",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/5/53/054Psyduck.png"
+        },
+        {
+            "pokeId": 55,
+            "pokeName": "Golduck",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/fe/055Golduck.png"
+        },
+        {
+            "pokeId": 56,
+            "pokeName": "Mankey",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/41/056Mankey.png"
+        },
+        {
+            "pokeId": 57,
+            "pokeName": "Primeape",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/9a/057Primeape.png"
+        },
+        {
+            "pokeId": 58,
+            "pokeName": "Growlithe",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/3d/058Growlithe.png"
+        },
+        {
+            "pokeId": 59,
+            "pokeName": "Arcanine",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/b/b8/059Arcanine.png"
+        },
+        {
+            "pokeId": 60,
+            "pokeName": "Poliwag",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/49/060Poliwag.png"
+        },
+        {
+            "pokeId": 61,
+            "pokeName": "Poliwhirl",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/a9/061Poliwhirl.png"
+        },
+        {
+            "pokeId": 62,
+            "pokeName": "Poliwrath",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/2/2d/062Poliwrath.png"
+        },
+        {
+            "pokeId": 63,
+            "pokeName": "Abra",
+            "catchRate": 200,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/62/063Abra.png"
+        },
+        {
+            "pokeId": 64,
+            "pokeName": "Kadabra",
+            "catchRate": 100,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/97/064Kadabra.png"
+        },
+        {
+            "pokeId": 65,
+            "pokeName": "Alakazam",
+            "catchRate": 50,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/cc/065Alakazam.png"
+        },
+        {
+            "pokeId": 66,
+            "pokeName": "Machop",
+            "catchRate": 180,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/85/066Machop.png"
+        },
+        {
+            "pokeId": 67,
+            "pokeName": "Machoke",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/8e/067Machoke.png"
+        },
+        {
+            "pokeId": 68,
+            "pokeName": "Machamp",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/8f/068Machamp.png"
+        },
+        {
+            "pokeId": 69,
+            "pokeName": "Bellsprout",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/a2/069Bellsprout.png"
+        },
+        {
+            "pokeId": 70,
+            "pokeName": "Weepinbell",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/9f/070Weepinbell.png"
+        },
+        {
+            "pokeId": 71,
+            "pokeName": "Victreebel",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/b/be/071Victreebel.png"
+        },
+        {
+            "pokeId": 72,
+            "pokeName": "Tentacool",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/4e/072Tentacool.png"
+        },
+        {
+            "pokeId": 73,
+            "pokeName": "Tentacruel",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/f6/073Tentacruel.png"
+        },
+        {
+            "pokeId": 74,
+            "pokeName": "Geodude",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/98/074Geodude.png"
+        },
+        {
+            "pokeId": 75,
+            "pokeName": "Graveler",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/75/075Graveler.png"
+        },
+        {
+            "pokeId": 76,
+            "pokeName": "Golem",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/f2/076Golem.png"
+        },
+        {
+            "pokeId": 77,
+            "pokeName": "Ponyta",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/3b/077Ponyta.png"
+        },
+        {
+            "pokeId": 78,
+            "pokeName": "Rapidash",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/3f/078Rapidash.png"
+        },
+        {
+            "pokeId": 79,
+            "pokeName": "Slowpoke",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/70/079Slowpoke.png"
+        },
+        {
+            "pokeId": 80,
+            "pokeName": "Slowbro",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/80/080Slowbro.png"
+        },
+        {
+            "pokeId": 81,
+            "pokeName": "Magnemite",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/6c/081Magnemite.png"
+        },
+        {
+            "pokeId": 82,
+            "pokeName": "Magneton",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/72/082Magneton.png"
+        },
+        {
+            "pokeId": 83,
+            "pokeName": "Farfetch'd",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/f8/083Farfetch%27d.png"
+        },
+        {
+            "pokeId": 84,
+            "pokeName": "Doduo",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/5/54/084Doduo.png"
+        },
+        {
+            "pokeId": 85,
+            "pokeName": "Dodrio",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/93/085Dodrio.png"
+        },
+        {
+            "pokeId": 86,
+            "pokeName": "Seel",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/1/1f/086Seel.png"
+        },
+        {
+            "pokeId": 87,
+            "pokeName": "Dewgong",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/c7/087Dewgong.png"
+        },
+        {
+            "pokeId": 88,
+            "pokeName": "Grimer",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/a0/088Grimer.png"
+        },
+        {
+            "pokeId": 89,
+            "pokeName": "Muk",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/7c/089Muk.png"
+        },
+        {
+            "pokeId": 90,
+            "pokeName": "Shellder",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/40/090Shellder.png"
+        },
+        {
+            "pokeId": 91,
+            "pokeName": "Cloyster",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/1/1d/091Cloyster.png"
+        },
+        {
+            "pokeId": 92,
+            "pokeName": "Gastly",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/ca/092Gastly.png"
+        },
+        {
+            "pokeId": 93,
+            "pokeName": "Haunter",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/62/093Haunter.png"
+        },
+        {
+            "pokeId": 94,
+            "pokeName": "Gengar",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/c6/094Gengar.png"
+        },
+        {
+            "pokeId": 95,
+            "pokeName": "Onix",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/9a/095Onix.png"
+        },
+        {
+            "pokeId": 96,
+            "pokeName": "Drowzee",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/3e/096Drowzee.png"
+        },
+        {
+            "pokeId": 97,
+            "pokeName": "Hypno",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/0a/097Hypno.png"
+        },
+        {
+            "pokeId": 98,
+            "pokeName": "Krabby",
+            "catchRate": 225,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/a7/098Krabby.png"
+        },
+        {
+            "pokeId": 99,
+            "pokeName": "Kingler",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/71/099Kingler.png"
+        },
+        {
+            "pokeId": 100,
+            "pokeName": "Voltorb",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/da/100Voltorb.png"
+        },
+        {
+            "pokeId": 101,
+            "pokeName": "Electrode",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/84/101Electrode.png"
+        },
+        {
+            "pokeId": 102,
+            "pokeName": "Exeggcute",
+            "catchRate": 90,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/af/102Exeggcute.png"
+        },
+        {
+            "pokeId": 103,
+            "pokeName": "Exeggutor",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/2/24/103Exeggutor.png"
+        },
+        {
+            "pokeId": 104,
+            "pokeName": "Cubone",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/2/2a/104Cubone.png"
+        },
+        {
+            "pokeId": 105,
+            "pokeName": "Marowak",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/98/105Marowak.png"
+        },
+        {
+            "pokeId": 106,
+            "pokeName": "Hitmonlee",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/32/106Hitmonlee.png"
+        },
+        {
+            "pokeId": 107,
+            "pokeName": "Hitmonchan",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/a3/107Hitmonchan.png"
+        },
+        {
+            "pokeId": 108,
+            "pokeName": "Lickitung",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/00/108Lickitung.png"
+        },
+        {
+            "pokeId": 109,
+            "pokeName": "Koffing",
+            "catchRate": 190,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/1/17/109Koffing.png"
+        },
+        {
+            "pokeId": 110,
+            "pokeName": "Weezing",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/42/110Weezing.png"
+        },
+        {
+            "pokeId": 111,
+            "pokeName": "Rhyhorn",
+            "catchRate": 120,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/9b/111Rhyhorn.png"
+        },
+        {
+            "pokeId": 112,
+            "pokeName": "Rhydon",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/47/112Rhydon.png"
+        },
+        {
+            "pokeId": 113,
+            "pokeName": "Chansey",
+            "catchRate": 30,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/cd/113Chansey.png"
+        },
+        {
+            "pokeId": 114,
+            "pokeName": "Tangela",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/3e/114Tangela.png"
+        },
+        {
+            "pokeId": 115,
+            "pokeName": "Kangaskhan",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/4e/115Kangaskhan.png"
+        },
+        {
+            "pokeId": 116,
+            "pokeName": "Horsea",
+            "catchRate": 225,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/5/5a/116Horsea.png"
+        },
+        {
+            "pokeId": 117,
+            "pokeName": "Seadra",
+            "catchRate": 75,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/2/26/117Seadra.png"
+        },
+        {
+            "pokeId": 118,
+            "pokeName": "Goldeen",
+            "catchRate": 225,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/7b/118Goldeen.png"
+        },
+        {
+            "pokeId": 119,
+            "pokeName": "Seaking",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/6a/119Seaking.png"
+        },
+        {
+            "pokeId": 120,
+            "pokeName": "Staryu",
+            "catchRate": 225,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/4f/120Staryu.png"
+        },
+        {
+            "pokeId": 121,
+            "pokeName": "Starmie",
+            "catchRate": 60,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/cd/121Starmie.png"
+        },
+        {
+            "pokeId": 122,
+            "pokeName": "Mr. Mime",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/e/ec/122Mr._Mime.png"
+        },
+        {
+            "pokeId": 123,
+            "pokeName": "Scyther",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/b/ba/123Scyther.png"
+        },
+        {
+            "pokeId": 124,
+            "pokeName": "Jynx",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/7c/124Jynx.png"
+        },
+        {
+            "pokeId": 125,
+            "pokeName": "Electabuzz",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/de/125Electabuzz.png"
+        },
+        {
+            "pokeId": 126,
+            "pokeName": "Magmar",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/8c/126Magmar.png"
+        },
+        {
+            "pokeId": 127,
+            "pokeName": "Pinsir",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/71/127Pinsir.png"
+        },
+        {
+            "pokeId": 128,
+            "pokeName": "Tauros",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/b/b8/128Tauros.png"
+        },
+        {
+            "pokeId": 129,
+            "pokeName": "Magikarp",
+            "catchRate": 255,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/0/02/129Magikarp.png"
+        },
+        {
+            "pokeId": 130,
+            "pokeName": "Gyarados",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/41/130Gyarados.png"
+        },
+        {
+            "pokeId": 131,
+            "pokeName": "Lapras",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/a/ab/131Lapras.png"
+        },
+        {
+            "pokeId": 132,
+            "pokeName": "Ditto",
+            "catchRate": 35,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/3/36/132Ditto.png"
+        },
+        {
+            "pokeId": 133,
+            "pokeName": "Eevee",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/e/e2/133Eevee.png"
+        },
+        {
+            "pokeId": 134,
+            "pokeName": "Vaporeon",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/fd/134Vaporeon.png"
+        },
+        {
+            "pokeId": 135,
+            "pokeName": "Jolteon",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/b/bb/135Jolteon.png"
+        },
+        {
+            "pokeId": 136,
+            "pokeName": "Flareon",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/d/dd/136Flareon.png"
+        },
+        {
+            "pokeId": 137,
+            "pokeName": "Porygon",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/6/6b/137Porygon.png"
+        },
+        {
+            "pokeId": 138,
+            "pokeName": "Omanyte",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/79/138Omanyte.png"
+        },
+        {
+            "pokeId": 139,
+            "pokeName": "Omastar",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/43/139Omastar.png"
+        },
+        {
+            "pokeId": 140,
+            "pokeName": "Kabuto",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/f9/140Kabuto.png"
+        },
+        {
+            "pokeId": 141,
+            "pokeName": "Kabutops",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/2/29/141Kabutops.png"
+        },
+        {
+            "pokeId": 142,
+            "pokeName": "Aerodactyl",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/e/e8/142Aerodactyl.png"
+        },
+        {
+            "pokeId": 143,
+            "pokeName": "Snorlax",
+            "catchRate": 25,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/f/fb/143Snorlax.png"
+        },
+        {
+            "pokeId": 144,
+            "pokeName": "Articuno",
+            "catchRate": 3,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/4/4e/144Articuno.png"
+        },
+        {
+            "pokeId": 145,
+            "pokeName": "Zapdos",
+            "catchRate": 3,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/e/e3/145Zapdos.png"
+        },
+        {
+            "pokeId": 146,
+            "pokeName": "Moltres",
+            "catchRate": 3,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/1/1b/146Moltres.png"
+        },
+        {
+            "pokeId": 147,
+            "pokeName": "Dratini",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/c/cc/147Dratini.png"
+        },
+        {
+            "pokeId": 148,
+            "pokeName": "Dragonair",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/9/93/148Dragonair.png"
+        },
+        {
+            "pokeId": 149,
+            "pokeName": "Dragonite",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/8/8b/149Dragonite.png"
+        },
+        {
+            "pokeId": 150,
+            "pokeName": "Mewtwo",
+            "catchRate": 3,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/7/78/150Mewtwo.png"
+        },
+        {
+            "pokeId": 151,
+            "pokeName": "Mew",
+            "catchRate": 45,
+            "hasCaught": false,
+            "pokeImage":"https://archives.bulbagarden.net/media/upload/b/b1/151Mew.png"
+        }
+    ]
+  
+}
