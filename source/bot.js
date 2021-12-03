@@ -8,7 +8,7 @@ require('dotenv').config();
 //npm install nodemon
 
 //POSTS THE BOT'S TOKEN
-//console.log(process.env.BOT_TOKEN);
+//console.log('OTExMDYwMDAwODg4MjEzNTQ0.YZb4vg.fIL1WG-rQZZc_PvakPWvnatPAxM');
 
 //POSTS THE SERVER
 //Object structuring
@@ -74,7 +74,7 @@ bot.on('ready', () =>{ //callback funct
     });
 
 })
-bot.login(process.env.BOT_TOKEN);
+bot.login(('OTExMDYwMDAwODg4MjEzNTQ0.YZb4vg.fIL1WG-rQZZc_PvakPWvnatPAxM'));
  
 // SLASH COMMANDS HANDLING
 bot.on('interactionCreate', async (interaction) => {
