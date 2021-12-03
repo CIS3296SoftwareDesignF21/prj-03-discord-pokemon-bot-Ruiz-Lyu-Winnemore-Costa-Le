@@ -10,4 +10,4 @@ Vihn-
 
 
 
-Lewis- 
+Lewis- "wheres" command - shows where each town is located on map, by town number.
